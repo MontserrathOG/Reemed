@@ -1,0 +1,8 @@
+apply plugin: 'com.android.application'
+
+    android {compileSdkVersion 28
+
+
+    defaultConfig {applicationId "com.example.montse.reemed"minSdkVersion 19targetSdkVersion 28versionCode 1versionName "1.0"
+
+    testInstrumentationRunner "android.support.test.run
